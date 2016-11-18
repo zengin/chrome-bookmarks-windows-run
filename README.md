@@ -1,7 +1,7 @@
 # Chrome Bookmarks for Windows Run
 This parses Chrome bookmarks in Windows, creates useful run commands out of them.
 
-# example usage
+# Example usage
 <code>python main.py C:\Users\zengin\bookmarks</code>
 
 This creates/replaces:
@@ -9,13 +9,14 @@ This creates/replaces:
 
 If you add this bat file into your PATH environment variable, batch file becomes available for use in Windows Run.
 
-For example if you had github as bookmark name for https://github.com, then command:
+
+For example if you had github as bookmark name for https://github.com, then type
 
 <code>b github</code>
 
-will open https://github.com in Chrome.
+in Windows Run command prompt. This will open https://github.com in Chrome.
 
-Optional browser parameter:
+# Optional browser parameter:
 
 You can optionally pass a browser parameter to script:
 <code>python main.py C:\Users\zengin\bookmarks edge</code>
