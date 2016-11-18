@@ -8,7 +8,7 @@ This creates (or replaces):
 
 <code>C:\Users\zengin\bookmarks\b.bat</code>
 
-If you add this bat file into your <code>PATH</code> environment variable, batch file becomes available for use in Windows Run.
+If you add this bat file into your <code>PATH</code> environment variable, batch file becomes available in Windows Run.
 
 
 For example if you had github as bookmark name for https://github.com, then type
